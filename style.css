@@ -44,7 +44,7 @@ left: 9%;
 #intro{
     position: relative;
     ;
-    background: url("../img/fond.png") no-repeat;
+    background: url("fond.png") no-repeat;
     background-size:100%;
     width: 100%;
     height: 100%;
@@ -77,7 +77,7 @@ left: 9%;
 #outro{
     position: relative;
     
-    background: url("../img/fond.png") no-repeat;
+    background: url("fond.png") no-repeat;
     background-size:100%;
     width: 100%;
     height: 100%;
@@ -194,7 +194,7 @@ span{
 
 /*QUESTIONS*/
 #Q1{
-    background: url("../img/img-1.png") repeat rgba(255, 0, 0, .1);
+    background: url("img-1.png") repeat rgba(255, 0, 0, .1);
     background-size: 50% ;
     position: absolute;
     width: 100%;
@@ -203,7 +203,7 @@ span{
 }
 
 #Q2{
-    background: url("../img/img-2.png") repeat rgba(0, 0, 0, .1);
+    background: url("img-2.png") repeat rgba(0, 0, 0, .1);
     background-size: 25% ;
     position: absolute;
     width: 100%;
@@ -211,7 +211,7 @@ span{
     z-index: 9 ; 
 }
 #Q3{
-    background: url("../img/img-3.png") repeat rgba(0, 250, 0, .1);
+    background: url("img-3.png") repeat rgba(0, 250, 0, .1);
     background-size: 50% ;
     position: absolute;
     width: 100%;
@@ -219,7 +219,7 @@ span{
     z-index: 9 ; 
 }
 #Q4{
-    background: url("../img/img-4.png") repeat rgba(0, 8, 117, 0.178);
+    background: url("img-4.png") repeat rgba(0, 8, 117, 0.178);
     background-size: 33% ;
     position: absolute;
     width: 100%;
@@ -227,7 +227,7 @@ span{
     z-index: 9 ; 
 }
 #Q5{
-    background: url("../img/img-5.png") repeat rgba(255, 150, 0, .1);
+    background: url("img-5.png") repeat rgba(255, 150, 0, .1);
     background-size: 20% ;
     position: absolute;
     width: 100%;
@@ -238,7 +238,7 @@ span{
 
 /*REPONSES*/
 #R1{
-    background: url("../img/img-1.png") repeat rgba(255, 0, 0, .1);
+    background: url("img-1.png") repeat rgba(255, 0, 0, .1);
     background-size: 50% ;
     position: absolute;
     width: 100%;
@@ -246,7 +246,7 @@ span{
     z-index: 10 ;
 }
 #R2{
-    background: url("../img/img-2.png") repeat rgba(0, 0, 0, .1);
+    background: url("img-2.png") repeat rgba(0, 0, 0, .1);
     background-size: 25% ;
     position: absolute;
     width: 100%;
@@ -254,7 +254,7 @@ span{
     z-index: 10 ;
 }
 #R3{
-    background: url("../img/img-3.png") repeat rgba(0, 255, 0, .1);
+    background: url("img-3.png") repeat rgba(0, 255, 0, .1);
     background-size: 50% ;
     position: absolute;
     width: 100%;
@@ -262,7 +262,7 @@ span{
     z-index: 10 ;
 }
 #R4{
-    background: url("../img/img-4.png") repeat rgba(0, 8, 117, 0.178);
+    background: url("img-4.png") repeat rgba(0, 8, 117, 0.178);
     background-size: 33% ;
     position: absolute;
     width: 100%;
@@ -270,7 +270,7 @@ span{
     z-index: 10 ;
 }
 #R5{
-    background: url("../img/img-5.png") repeat rgba(255, 150, 0, .1);
+    background: url("img-5.png") repeat rgba(255, 150, 0, .1);
     background-size: 20% ;
     position: absolute;
     width: 100%;
